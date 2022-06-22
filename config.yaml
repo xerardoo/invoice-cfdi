@@ -1,0 +1,2 @@
+sat_catalog_v33:
+  datasource: "./testdata/catCFDI_V_33_code_challenge.xls"
